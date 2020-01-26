@@ -1,3 +1,3 @@
 # Git Study Example
 
-Git 스터티 예제
+Git 스터티 예제 2
